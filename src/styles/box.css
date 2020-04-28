@@ -1,0 +1,15 @@
+/*
+* src/styles/box.css
+*/
+.board__box {
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    padding: 0;
+    width: calc(300px / 3);
+    height: calc(300px / 3);
+    font-size: 32px;
+    color: rgb(240, 12, 12);
+    background-color: rgb(238, 204, 11);
+    border: 1px solid #aaa;
+  }
